@@ -61,7 +61,6 @@ The other obvious reason is due to the jobs the CompTIA A+ brings, the A+ is bas
 
 
 Just look at the post right here 
-
 https://www.reddit.com/r/CompTIA/comments/cmjqff/i_got_a_job_a_cert_only/
 
 
