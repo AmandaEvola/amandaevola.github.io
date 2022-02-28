@@ -14,7 +14,7 @@ This is my own personal blog talking about controversial topics such as certific
 
 
 
-The CompTIA A+ is a well known entry level IT certification usually for entry level IT jobs,
+<b>The CompTIA A+ is a well known entry level IT certification usually for entry level IT jobs,</b>
  
  
    
