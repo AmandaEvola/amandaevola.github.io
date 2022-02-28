@@ -2,9 +2,12 @@
 
   
 <b>
+  
   This is my own personal blog talking about controversial topics such as certifications/certificates versus a degree, the use of experience in Information Technology, and even my own experiences in the IT industry. 
 
  
+  
+  
   I will also be talking about my favorite tech, different YouTube personalities in the IT/Computer Science world, and FAANG companies.
 
  Next, I will be showcasing my own achievements and what led me to get to them from my own perspective.
