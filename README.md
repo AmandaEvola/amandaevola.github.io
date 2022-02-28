@@ -62,7 +62,7 @@ The other obvious reason is due to the jobs the CompTIA A+ brings, the A+ is bas
 
 Just look at the post right here 
 
-<a href="https://www.reddit.com/r/CompTIA/comments/cmjqff/i_got_a_job_a_cert_only/"/>
+https://www.reddit.com/r/CompTIA/comments/cmjqff/i_got_a_job_a_cert_only/
 
 
 On the other hand, while there are a LOT of cons to the Google IT Support Professional Certificate, there are a lot of pros as well. 
@@ -88,7 +88,7 @@ One neat fact is that if you choose to obtain both the CompTIA A+ and Google IT 
 
 
 Read more about the Google IT Support Professional Certificate and the CompTIA A+ here: 
-<a href="https://www.blog.google/outreach-initiatives/grow-with-google/-it-support-comptia/"/>
+https://www.blog.google/outreach-initiatives/grow-with-google/-it-support-comptia/
 
 
 
