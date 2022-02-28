@@ -21,7 +21,7 @@
 
 
 
-<br>The CompTIA A+ is a well known entry level IT certification usually for entry level IT jobs,</br>
+The CompTIA A+ is a well known entry level IT certification usually for entry level IT jobs,
  
  
    
