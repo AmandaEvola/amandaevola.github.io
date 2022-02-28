@@ -14,7 +14,7 @@ This is my own personal blog talking about controversial topics such as certific
 
 
 
-The CompTIA A+ is a well known entry level IT certification usually for entry level IT jobs,
+<b>The CompTIA A+ is a well known entry level IT certification usually for entry level IT jobs,
  
  
    
@@ -79,7 +79,7 @@ The personal advice I have would be that if you are seeking an entry level job i
 One neat fact is that if you choose to obtain both the CompTIA A+ and Google IT Support Professional Certificate you can earn a dual LinkedIN badge which looks great to employers.
 
 
-Read more about the Google IT Support Professional Certificate and the CompTIA A+ here: https://www.blog.google/outreach-initiatives/grow-with-google/-it-support-comptia/
+Read more about the Google IT Support Professional Certificate and the CompTIA A+ here: https://www.blog.google/outreach-initiatives/grow-with-google/-it-support-comptia/</b>
 
 
 
