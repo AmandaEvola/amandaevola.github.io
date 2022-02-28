@@ -54,7 +54,7 @@ The other obvious reason is due to the jobs the CompTIA A+ brings, the A+ is bas
 
 
 Just look at this post right here: 
-  <a href="https://www.reddit.com/r/CompTIA/comments/cmjqff/i_got_a_job_a_cert_only/">this link</a>
+  <a href="https://www.reddit.com/r/CompTIA/comments/cmjqff/i_got_a_job_a_cert_only/">Reddit CompTIA</a>
 
 
 On the other hand, while there are a LOT of cons to the Google IT Support Professional Certificate, there are a lot of pros as well. 
@@ -79,7 +79,7 @@ The personal advice I have would be that if you are seeking an entry level job i
 One neat fact is that if you choose to obtain both the CompTIA A+ and Google IT Support Professional Certificate you can earn a dual LinkedIN badge which looks great to employers.
 
 
-Read more about the Google IT Support Professional Certificate and the CompTIA A+ here: <a href="https://www.blog.google/outreach-initiatives/grow-with-google/-it-support-comptia">this link</a>/</b>
+Read more about the Google IT Support Professional Certificate and the CompTIA A+ here: <a href="https://www.blog.google/outreach-initiatives/grow-with-google/-it-support-comptia">Google/CompTIA</a></b>
 
 
 
