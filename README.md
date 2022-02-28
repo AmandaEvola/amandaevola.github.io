@@ -60,8 +60,7 @@ The CompTIA A+ will most likely always be more recognized than the Google IT Sup
 The other obvious reason is due to the jobs the CompTIA A+ brings, the A+ is basically the gold standard for someone seeking an entry level IT support job (with/without a degree, or experience.) Several people on multiple social media platforms (LinkedIN, Youtube, Reddit, etc.) have expressed their progression in their career goals from the comptia A+.
 
 
-Just look at the post right here 
-https://www.reddit.com/r/CompTIA/comments/cmjqff/i_got_a_job_a_cert_only/
+Just look at this post right here: https://www.reddit.com/r/CompTIA/comments/cmjqff/i_got_a_job_a_cert_only/
 
 
 On the other hand, while there are a LOT of cons to the Google IT Support Professional Certificate, there are a lot of pros as well. 
@@ -86,8 +85,7 @@ The personal advice I have would be that if you are seeking an entry level job i
 One neat fact is that if you choose to obtain both the CompTIA A+ and Google IT Support Professional Certificate you can earn a dual LinkedIN badge which looks great to employers.
 
 
-Read more about the Google IT Support Professional Certificate and the CompTIA A+ here: 
-https://www.blog.google/outreach-initiatives/grow-with-google/-it-support-comptia/
+Read more about the Google IT Support Professional Certificate and the CompTIA A+ here: https://www.blog.google/outreach-initiatives/grow-with-google/-it-support-comptia/
 
 
 
