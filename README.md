@@ -1,15 +1,15 @@
 # amandaevola.github.io
 
   
- This is my own personal blog talking about controversial topics such as certifications/certificates versus a degree, the use of experience in Information Technology, and even my own experiences in the IT industry. 
+<b> This is my own personal blog talking about controversial topics such as certifications/certificates versus a degree, the use of experience in Information Technology, and even my own experiences in the IT industry. 
 
  I will also be talking about my favorite tech, different YouTube personalities in the IT/Computer Science world, and FAANG companies.
 
- I will also be showcasing my own achievements and what led me to get to them with my own perspective.
+ Next, I will be showcasing my own achievements and what led me to get to them from my own perspective.
 
  Lastly, I will be talking about different startups/companies and the financial/business side of IT. 
 
- I appreciate you reading my blog and I hope you enjoy the ride.
+ I appreciate you reading my blog and I hope you enjoy the ride. </b>
  
 <h1>Is the CompTIA A+ REALLY worth it?</h1>
 <img src="https://149357281.v2.pressablecdn.com/wp-content/uploads/2018/01/Blog-3.png" alt="Google IT Support Professional Certificate" align="right">
@@ -41,9 +41,9 @@ The CompTIA A+ is a well known entry level IT certification usually for entry le
   
 I myself am in the process of obtaining the Google IT Support Professional Certificate with only 2 courses left, so far from being basically a beginner I can now confidently be able to understand basic PowerShell and Linux commands with additional knowledge of binary/subnetting, software/operating systems, and general security/infrastructure concepts.
   
-The labs in my opinion from QwikLabs are pretty useful for the Google IT Support Professional Certificate (unless there is an issue with your account, I learned that the hard way by resetting my account.) 
+The labs in my opinion from Qwiklabs are pretty useful for the Google IT Support Professional Certificate (unless there is an issue with your account, I learned that the hard way by resetting my account.) 
   
-The staff from QwikLabs also reply to your emails very quickly for resetting the labs as well, in my experience.
+The staff from Qwiklabs also reply to your emails very quickly for resetting the labs as well, in my experience.
 
 
 From my own private investigation on Reddit the general consensus is that the CompTIA A+ beats the Google IT Support Professional Certificate in 2 ways.
@@ -57,7 +57,7 @@ The CompTIA A+ will most likely always be more recognized than the Google IT Sup
 
 
 
-The other obvious reason is due to the jobs the CompTIA A+ brings, the A+ is basically the gold standard for someone seeking an entry level IT support job (with/without a degree, or experience.) Several people on multiple social media platforms (LinkedIN, Youtube, Reddit, etc.) have expressed their progression in their career goals from the comptia A+.
+The other obvious reason is due to the jobs the CompTIA A+ brings, the A+ is basically the gold standard for someone seeking an entry level IT support job (with/without a degree, or experience.) Several people on multiple social media platforms (LinkedIN, YouTube, Reddit, etc.) have expressed their progression in their career goals from the comptia A+.
 
 
 Just look at this post right here: 
