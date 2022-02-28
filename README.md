@@ -9,7 +9,7 @@
 
  Lastly, I will be talking about different startups/companies and the financial/business side of IT. 
 
- I appreciate you reading my blog and I hope you enjoy the ride.</b>
+ I appreciate you reading my blog and I hope you enjoy the ride.
  
 <h1>Is the CompTIA A+ REALLY worth it?</h1>
 <img src="https://149357281.v2.pressablecdn.com/wp-content/uploads/2018/01/Blog-3.png" alt="Google IT Support Professional Certificate" align="right">
