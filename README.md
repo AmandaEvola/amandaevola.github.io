@@ -1,5 +1,5 @@
 # amandaevola.github.io
-<b>
+
   
  This is my own personal blog talking about controversial topics such as certifications/certificates versus a degree, the use of experience in Information Technology, and even my own experiences in the IT industry. 
 
