@@ -1,7 +1,7 @@
 # amandaevola.github.io
 
   
-<b> This is my own personal blog talking about controversial topics such as certifications/certificates versus a degree, the use of experience in Information Technology, and even my own experiences in the IT industry. 
+<b>This is my own personal blog talking about controversial topics such as certifications/certificates versus a degree, the use of experience in Information Technology, and even my own experiences in the IT industry. 
 
  I will also be talking about my favorite tech, different YouTube personalities in the IT/Computer Science world, and FAANG companies.
 
@@ -9,7 +9,7 @@
 
  Lastly, I will be talking about different startups/companies and the financial/business side of IT. 
 
- I appreciate you reading my blog and I hope you enjoy the ride. </b>
+ I appreciate you reading my blog and I hope you enjoy the ride.</b>
  
 <h1>Is the CompTIA A+ REALLY worth it?</h1>
 <img src="https://149357281.v2.pressablecdn.com/wp-content/uploads/2018/01/Blog-3.png" alt="Google IT Support Professional Certificate" align="right">
