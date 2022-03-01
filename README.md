@@ -14,14 +14,14 @@
 					<div class="infobody"><p> 
 						<br>Hi, this is my own personal blog talking about controversial topics such as certifications/certificates versus 
 						
-						a degree, the use of experience in Information Technology, and even my own experiences in the IT industry.<br> 
+						a degree, the use of experience in Information Technology, and even my own experiences in the IT industry.</br> 
       
       
       
 						
 						
 						<br>I will also be talking about my favorite tech, different YouTube personalities in the IT/Computer Science world, and FAANG 
-						companies.<br>
+						companies.</br>
       
       
      
