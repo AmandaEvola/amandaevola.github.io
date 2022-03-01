@@ -7,7 +7,7 @@
 
 <section id="welcome-section" class="welcome-section">
   <h1>Development And Operations Enthusiast</h1>
-  <p>Amanda Evola (contact me at: krustykrabman1999@gmail.com)</p>
+  <p>Amanda Evola (contact me at: amandaevola18@gmail.com)</p>
 </section>
 
 
