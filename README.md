@@ -12,16 +12,16 @@
 						<div class="infoleft">
 					<div class="infohead"><b>Welcome!</b></div>
 					<div class="infobody"><p> 
-						<br>Hi, this is my own personal blog talking about controversial topics such as certifications/certificates versus 
+						<b>Hi, this is my own personal blog talking about controversial topics such as certifications/certificates versus 
 						
-						a degree, the use of experience in Information Technology, and even my own experiences in the IT industry.</br> 
+						a degree, the use of experience in Information Technology, and even my own experiences in the IT industry. 
       
       
       
 						
 						
-						<br>I will also be talking about my favorite tech, different YouTube personalities in the IT/Computer Science world, and FAANG 
-						companies.</br>
+						I will also be talking about my favorite tech, different YouTube personalities in the IT/Computer Science world, and FAANG 
+						companies.
       
       
      
@@ -56,7 +56,7 @@
 			
   
 						
-						<p>The CompTIA A+ is a well known entry level IT certification usually for entry level IT jobs,
+						<br>The CompTIA A+ is a well known entry level IT certification usually for entry level IT jobs,
  
  
    
@@ -262,7 +262,7 @@
 						      A+ and Google IT Support 
 						    Professional Certificate you can 
 						    earn a dual LinkedIN badge which 
-						       looks great to employers.
+						      looks great to employers. </br>
 
 
 
