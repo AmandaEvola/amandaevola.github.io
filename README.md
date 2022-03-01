@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang=en>
+	<head>
+
+
 
 <html lang=en>
 	<head>
@@ -7,7 +12,7 @@
 						<div class="infoleft">
 					<div class="infohead"><b>Welcome!</b></div>
 					<div class="infobody"><p> 
-						Hi, this is my own personal blog talking about controversial topics such as certifications/certificates versus 
+						<b>Hi, this is my own personal blog talking about controversial topics such as certifications/certificates versus 
 						
 						a degree, the use of experience in Information Technology, and even my own experiences in the IT industry. 
       
@@ -30,7 +35,7 @@
 						
 						
 						Lastly, I will be talking about different startups/companies and the financial/business side of IT. I appreciate you reading my 
-						blog and I hope you enjoy the ride.
+							blog and I hope you enjoy the ride.</b>
       
 						
 						</a></p>
@@ -51,7 +56,7 @@
 			
   
 						
-						The CompTIA A+ is a well known entry level IT certification usually for entry level IT jobs,
+						<p>The CompTIA A+ is a well known entry level IT certification usually for entry level IT jobs,
  
  
    
