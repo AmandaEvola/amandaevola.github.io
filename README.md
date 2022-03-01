@@ -3,6 +3,12 @@
 	<link rel="stylesheet" type="text/css" href="https://amandaevola.github.io/">
 	<head>
 
+<!-- START WELCOME SECTION -->
+
+<section id="welcome-section" class="welcome-section">
+  <h1>Development And Operations Enthusiast</h1>
+  <p>Amanda Evola (contact me at: krustykrabman1999@gmail.com)</p>
+</section>
 
 
 <html lang=en>
