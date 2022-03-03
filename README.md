@@ -273,7 +273,7 @@
 							Support Professional Certificate 
 							 and the CompTIA A+ here:</br> <a 
 																		
-				href="https://www.blog.google/outreachinitiatives/grow-with-google/-it-support-comptia">Grow With Google/CompTIA</a></p>
+				href="https://www.comptia.org/blog/google-and-comptia-high-growth-tech-jobs">Grow With Google/CompTIA</a></p>
 					
 
   
